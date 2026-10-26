@@ -116,6 +116,9 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [Dubverse](https://dubverse.ai)        | Auto-dub videos into 30+ languages using AI.                      | Freemium | Free trial with watermark   |
 | [Nova AI](https://www.trynova.ai)      | AI-based video editing, translation, and subtitle gen.            | Freemium | Free with limited features  |
 | [ImagineClip](https://imagineclip.com?ref=kahkashanshaik-awesome-ai-tools) | AI video generator for social clips, avatars, and stylized scenes. | Freemium | Limited free generation     |
+| [KDA Firestarter AI Dance](https://kdafirestarterai.dev) | Paid from $7.99 | Independent unofficial AI: one photo → 13s 480p 21:9 solo dance (Paid from $7.99 | Independent unofficial AI: one photo → 13s 480p 21:9 solo da |
+| [A2O LITE NEON AI Dance](https://a2oliteai.org) | Paid from $7.99 | Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtr | Independent AI: two photos → 15s 480p 16:9 duo neon dance wi |
+| [dime dime baby ai](https://dimedimebabyai.dev) | Paid from $7.99 | Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groo | Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince C |
 
 ---
 

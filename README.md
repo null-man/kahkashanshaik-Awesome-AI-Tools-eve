@@ -122,9 +122,9 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [PromptImage](https://promptimage.cloud) | Freemium | Free AI image & video studio with prompt library. | Signup credits; multi-model |
 | [TeslaWraps](https://teslawraps.design) | Freemium | Browser Tesla wrap designer; core editing free. | No account needed for core edit |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Free Trial | Independent text/image-to-video via Grok Imagine API. | Not affiliated with xAI/X |
-| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Free Trial | Independent text/image-to-video via Grok Imagine API. | Not affiliated with xAI/X |
-| [Bad Times AI](https://badtimesai.dev) | Free Trial | Independent text/image-to-video via Grok Imagine API. | Not affiliated with xAI/X |
-| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Free Trial | Independent text/image-to-video via Grok Imagine API. | Not affiliated with xAI/X |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Paid | Independent: two photos → 13s studio dance video. | Not affiliated with Stromae/TikTok |
+| [Bad Times AI](https://badtimesai.dev) | Paid | Independent AI dance effect: one photo → 14–15s portrait dance. | From $7.99 one-time |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Paid | Independent AI scene effect: two photos → balcony/spotlight meeting. | From $7.99; unofficial |
 
 ---
 

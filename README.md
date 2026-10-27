@@ -122,6 +122,9 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [PromptImage](https://promptimage.cloud) | Freemium | Free AI image & video studio with prompt library. | Signup credits; multi-model |
 | [TeslaWraps](https://teslawraps.design) | Freemium | Browser Tesla wrap designer; core editing free. | No account needed for core edit |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Free Trial | Independent text/image-to-video via Grok Imagine API. | Not affiliated with xAI/X |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Free Trial | Independent text/image-to-video via Grok Imagine API. | Not affiliated with xAI/X |
+| [Bad Times AI](https://badtimesai.dev) | Free Trial | Independent text/image-to-video via Grok Imagine API. | Not affiliated with xAI/X |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Free Trial | Independent text/image-to-video via Grok Imagine API. | Not affiliated with xAI/X |
 
 ---
 

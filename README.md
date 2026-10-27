@@ -119,6 +119,9 @@ A curated collection of the **best AI tools** categorized for easy discovery. Co
 | [KDA Firestarter AI Dance](https://kdafirestarterai.dev) | Paid from $7.99 | Independent unofficial AI: one photo → 13s 480p 21:9 solo dance (Paid from $7.99 | Independent unofficial AI: one photo → 13s 480p 21:9 solo da |
 | [A2O LITE NEON AI Dance](https://a2oliteai.org) | Paid from $7.99 | Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtr | Independent AI: two photos → 15s 480p 16:9 duo neon dance wi |
 | [dime dime baby ai](https://dimedimebabyai.dev) | Paid from $7.99 | Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groo | Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince C |
+| [PromptImage](https://promptimage.cloud) | Freemium | Free AI image & video studio with prompt library. | Signup credits; multi-model |
+| [TeslaWraps](https://teslawraps.design) | Freemium | Browser Tesla wrap designer; core editing free. | No account needed for core edit |
+| [GrokVideo Studio](https://grokvideogenerator.dev) | Free Trial | Independent text/image-to-video via Grok Imagine API. | Not affiliated with xAI/X |
 
 ---
 
